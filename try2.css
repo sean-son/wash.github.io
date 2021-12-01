@@ -24,9 +24,9 @@
    ;
 }
 #hm{
-    color: #0A4566;
-    position: relative;
-    font-family: "Poppins";
+    color: #0A4566!important;
+    position: relative !important;
+    font-family: "Poppins" !important;
 }
 #roundy{
     position: absolute;
