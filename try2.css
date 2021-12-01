@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
 
 .heading1{
     color: #0A4566;
@@ -22,7 +23,7 @@
 
    ;
 }
-#hm{
+.hm{
     color: #0A4566;
     position: relative;
     font-family: "Poppins";
@@ -124,3 +125,4 @@ margin-bottom: 30px;
         width: 100rem;;
         position:absolute;
         }
+
