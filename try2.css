@@ -1,0 +1,126 @@
+
+.heading1{
+    color: #0A4566;
+    position: relative;
+    top: 40%;
+    Width: 100%;
+    font-family: "Poppins";
+    font-size: 50px;
+    padding-left: 63.5%;
+    padding-bottom: -50%;
+}
+
+.heading2{
+    color: #0A4566;
+    position: relative;
+    top: 37%;
+    Width: 100%;
+    font-family: "Poppins";
+    font-size: 70px;
+    padding-left: 63.2%;
+   padding-bottom: -10%;
+
+   ;
+}
+#hm{
+    color: #0A4566;
+    position: relative;
+    font-family: "Poppins";
+}
+#roundy{
+    position: absolute;
+    padding-left: 54.5%;
+    padding-top: 16%
+    ;
+}
+
+.services{
+    color: #0A4566;
+    font-family: "Poppins";
+    margin-bottom: 0px;
+}
+
+.card-text{
+    position: relative !important; 
+    font-family: "Poppins";
+    align-content: center !important;
+
+}
+
+.card{
+    border-radius: 20px !important;
+}
+
+.fab{
+    color: #0A4566;
+}
+
+.text-muted{
+    color: #0A4566 !important;
+}
+
+.pb-2{
+    color: #0A4566;
+    font-family: "Poppins";
+    margin-bottom: 0px;
+}
+
+#hm1{
+    color: #0A4566 !important;
+    position: relative !important;
+    font-family: "Poppins" !important;
+}
+
+#hm2{
+    color: #0A4566!important;
+    position: relative !important;
+    font-family: "Poppins" !important;
+}
+.d-block{
+align-content: center;
+margin: auto; 
+width: 1100px ; 
+height: 600px ;
+object-fit: inherit;
+margin-bottom: 30px;
+    border-radius: 20px !important;
+}
+.keeps{
+    background-image: url("young-african-american-man-doing-laundry-2.jpg");
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+.headingnew{
+    position: relative;
+    top: 40%;
+    font-family: "Poppins";
+    Width: 100%;
+    font-size: 50px;
+}
+
+#card{
+    position: relative;
+    align-content: center;
+    margin: auto; 
+    background-image: url("images/young-african-american-man-doing-laundry-2.jpg");
+    width: 1300px ; 
+    height: 300px ;
+    object-fit: cover;
+    background-size: 1300px;
+    margin-bottom: 30px;
+    }
+    .map-container-2{
+        overflow:hidden;
+        padding-bottom:56.25%;
+        position:relative;
+        height:0;
+        }
+        .map-container-2 iframe{
+        left:0;
+        top:0;
+        height:100%;
+        width: 100rem;;
+        position:absolute;
+        }
