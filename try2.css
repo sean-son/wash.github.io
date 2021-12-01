@@ -126,7 +126,7 @@ margin-bottom: 30px;
         position:absolute;
         }
 .nav >li {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
 }
 
