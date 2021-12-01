@@ -125,4 +125,8 @@ margin-bottom: 30px;
         width: 100rem;;
         position:absolute;
         }
+.nav >li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
