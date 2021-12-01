@@ -23,7 +23,7 @@
 
    ;
 }
-.hm{
+#hm{
     color: #0A4566;
     position: relative;
     font-family: "Poppins";
@@ -66,13 +66,13 @@
     margin-bottom: 0px;
 }
 
-.hm1{
+#hm1{
     color: #0A4566 !important;
     position: relative !important;
     font-family: "Poppins" !important;
 }
 
-.hm2{
+#hm2{
     color: #0A4566!important;
     position: relative !important;
     font-family: "Poppins" !important;
